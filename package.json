@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "uuid": "^3.3.3",
-    "ws": "^7.2.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "yargs": "^15.0.2"
